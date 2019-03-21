@@ -1,0 +1,25 @@
+{
+  "name": "RFIDReader",
+  "version": "1.0.0",
+  "description": "Scan data Cordova Plugin",
+  "cordova": {
+    "id": "com-mala-plugins-echo",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalaShuklaIOSDeveloper/cordova-plugin-RDIFReader.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Mala",
+  "license": "MS",
+  "bugs": {
+    "url": "https://github.com/MalaShuklaIOSDeveloper/cordova-plugin-RDIFReader/issues"
+  },
+  "homepage": "https://github.com/MalaShuklaIOSDeveloper/cordova-plugin-RDIFReader#readme"
+}
