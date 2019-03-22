@@ -8,4 +8,6 @@
             <config-file parent="/*" target="config.xml">
                 <feature name="RFIDReader"><param name="ios-package" value="RFIDReader" /></feature>
             </config-file><source-file src="src/ios/RFIDReader.m" />
+            <framework src="src/ios/TSLAsciiCommands.framework" />
+            <framework src="src/ios/ExternalAccessory.framework" />
     </platform></plugin>
